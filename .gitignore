@@ -1,0 +1,52 @@
+# 构建文件和目录
+build/
+dist/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.coverage
+*.spec
+
+# 包安装信息
+*.egg
+*.egg-info/
+.installed.cfg
+*.egg-info
+
+# 数据和日志文件
+/data/
+/logs/
+/reports/
+*.log
+
+# 系统和IDE文件
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# 虚拟环境
+venv/
+env/
+ENV/
+.env
+
+# 敏感信息（如包含个人API密钥的配置文件实例）
+# config_personal.json
+
+# 生成的图标和资源
+/icons/generated/
+app_icon.ico
+
+# 临时文件
+temp/
+*.tmp
+*.bak
+
+# 测试数据和打包时生成的文件
+test_data/
+output/ 

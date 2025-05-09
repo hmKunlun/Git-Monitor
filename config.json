@@ -1,0 +1,35 @@
+{
+  "storage_path": "./data",
+  "log_file": "./logs/monitor.log",
+  "report_path": "./reports",
+  "system_level_monitoring": true,
+  "monitor_interval": 1,
+  "ignored_commands": [
+    "git diff",
+    "git log"
+  ],
+  "log_level": "INFO",
+  "max_history_size": 10000,
+  "file_rotation_size": 5242880,
+  "pid_cache_ttl": 300,
+  "notification": {
+    "enabled": false,
+    "interval": 86400
+  },
+  "github_records": {
+    "enabled": true,
+    "separate_storage": true,
+    "highlight_output": true
+  },
+  "report": {
+    "auto_generate": {
+      "enabled": false,
+      "daily": true,
+      "weekly": true,
+      "monthly": true,
+      "time": "23:50"
+    },
+    "chart_theme": "default",
+    "include_repos": []
+  }
+} 

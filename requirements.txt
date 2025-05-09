@@ -1,0 +1,32 @@
+# 核心依赖
+psutil==5.9.5
+pywin32==306
+PyQt5==5.15.9
+
+# 日志记录
+logging-utils==0.0.10
+
+# Git操作
+gitpython==3.1.31
+
+# 报告生成
+matplotlib==3.7.2
+pandas==2.0.3
+jinja2==3.1.2
+markdown==3.4.4
+
+# 图表与数据处理
+numpy==1.24.4
+Pillow==10.0.0
+
+# 工具类
+colorama==0.4.6
+pyfiglet==0.8.post1
+
+# 打包工具
+pyinstaller==6.13.0
+
+# 其他工具
+tqdm==4.65.0
+python-dotenv==1.0.0
+watchdog==3.0.0 
