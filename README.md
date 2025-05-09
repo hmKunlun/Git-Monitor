@@ -45,7 +45,8 @@
 
 ###
   如果对你有帮助，可以给扫描下面的二维码，请我喝杯咖啡 非常感谢！
-  <div style="width: 60%; height: 60%;"><img src=https://github.com/user-attachments/assets/eb8c1cd3-d20f-4d70-8a0b-5de6892a796c"></div>
+  <div style="width: 60%; height: 60%;"><img src=![5186bbe60057e5c743079e5a5c73468](https://github.com/user-attachments/assets/16d40e34-5fcb-4a26-8275-5e64f0633603)
+"></div>
 
 
 ## 演示
