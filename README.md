@@ -71,7 +71,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/git-command-monitor.git
+git clone https://github.com/hmKunlun/Git-Monitor.git
 cd git-command-monitor
 
 # 安装依赖
@@ -83,7 +83,7 @@ python run_tray_hidden.py
 
 ### 方法2：下载预构建版本
 
-您也可以从[Releases页面](https://github.com/yourusername/git-command-monitor/releases)下载最新的预构建版本。
+您也可以从[Releases页面](https://github.com/hmKunlun/Git-Monitor/releases)下载最新的预构建版本。
 
 ## 配置
 
@@ -431,7 +431,7 @@ git-command-monitor/
 
 ## 问题反馈与贡献
 
-如果您遇到任何问题或有改进建议，请[提交Issue](https://github.com/yourusername/git-command-monitor/issues)。
+如果您遇到任何问题或有改进建议，请[提交Issue](https://github.com/hmKunlun/Git-Monitor/issues)。
 
 欢迎贡献代码！请参阅[贡献指南](CONTRIBUTING.md)了解更多信息。
 
