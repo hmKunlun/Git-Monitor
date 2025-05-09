@@ -1,6 +1,7 @@
 # Git操作监控工具 (Git Command Monitor)
 
 一个为开发团队设计的Git命令系统级监控工具，可记录所有执行的Git操作，支持Windows系统。
+可以一键导出日报周报记录，轻松解决工作周报。
 
 ## 功能特点
 
@@ -41,6 +42,13 @@
 - ➕ 新增对`git remote`命令的支持
 - ⚡ 优化Git命令分析器的错误处理和性能
 - 📈 提高系统对非UTF-8编码的适应性
+
+## 演示
+![6cdd35ecab3f4a778e8785782764a4c](https://github.com/user-attachments/assets/d09142d5-5959-4179-8a0e-0b4646f883ea)
+![6b4ba9cc49be8190776b0992f5bf81d](https://github.com/user-attachments/assets/132c47b9-3618-4f25-a00c-79c60ce68bed)
+![3054f7ce5a9dca3f05c941e9ff016f9](https://github.com/user-attachments/assets/4b0bda66-be1f-448a-9f1c-014a4abc1ae9)
+![a1abcab629721da7a5fd9a91d7ea74d](https://github.com/user-attachments/assets/b2faabe3-8b82-4ec7-9ab6-26341137f078)
+
 
 ## 系统要求
 
