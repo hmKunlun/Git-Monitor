@@ -43,6 +43,10 @@
 - ⚡ 优化Git命令分析器的错误处理和性能
 - 📈 提高系统对非UTF-8编码的适应性
 
+  如果对你有帮助，可以给扫描下面的二维码，请我喝杯咖啡 非常感谢！
+  ![5186bbe60057e5c743079e5a5c73468](https://github.com/user-attachments/assets/eb8c1cd3-d20f-4d70-8a0b-5de6892a796c)
+
+
 ## 演示
 ![6cdd35ecab3f4a778e8785782764a4c](https://github.com/user-attachments/assets/d09142d5-5959-4179-8a0e-0b4646f883ea)
 ![6b4ba9cc49be8190776b0992f5bf81d](https://github.com/user-attachments/assets/132c47b9-3618-4f25-a00c-79c60ce68bed)
