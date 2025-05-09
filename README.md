@@ -45,7 +45,8 @@
 
 #### 赞赏
   如果对你有帮助，可以给扫描下面的二维码，请我喝杯咖啡 非常感谢！
-![image](https://github.com/user-attachments/assets/8e3b7749-7777-451f-ac6a-d474be2e0549)
+![image](https://github.com/user-attachments/assets/065cc15e-1f1f-48c5-9845-49943506a818)
+
 
 
 
